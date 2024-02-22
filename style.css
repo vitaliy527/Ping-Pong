@@ -13,3 +13,10 @@ body {
     flex-direction: column;
 }
 
+.table__counter{
+    color:white;
+}
+.table{
+    display:flex;
+    font-size: larger;
+}
